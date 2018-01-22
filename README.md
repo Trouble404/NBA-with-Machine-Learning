@@ -29,7 +29,9 @@
 ---
 
 ## Result
-Website: [Team_B](https://d2v4olxsjbfep7.cloudfront.net/panels.html)
+**Website: [2017 NBA ALL-STAR AND BEST ROOKIES PREDICTION WITH FAN-MAP](https://d2v4olxsjbfep7.cloudfront.net/panels.html)**
+---
+
 example: 
 *  Neural network model
 
