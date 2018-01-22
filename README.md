@@ -1,4 +1,4 @@
-# Machine-Learning-and-data-collection
+# Machine-Learning-in-NBA
 ## Fan-map plotting
 *   Obtain the game data in 2000~2017 in NBA
 *   Obtain the follwers of 2015~2017 NBA rookies by [twittR](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9) package
