@@ -1,10 +1,5 @@
 # Machine-Learning-in-NBA
 
-##  Comprasion of predicted list and real list
-![image](https://github.com/Trouble404/NBA-with-Machine-Learning/blob/master/readme_add_pic/full-list.PNG)
-
----
-
 ## Fan-map plotting
 *   Obtain the game data in 2000~2017 in NBA
 *   Obtain the follwers of 2015~2017 NBA rookies by [twittR](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9) package
@@ -14,6 +9,7 @@
 
 ## Machine learning apply
 ### all-star players in 2017 prediction
+![image](https://github.com/Trouble404/NBA-with-Machine-Learning/blob/master/readme_add_pic/full-list.PNG)
 *    [PCA 主成份分析](https://github.com/Trouble404/NBA-with-Machine-Learning/blob/master/nerual_network/pca/nba%20all%20star/pca%20of%20nba%20all%20players_00-17.ipynb) in all-star player prediction
 *  [Keras](https://keras-cn.readthedocs.io/en/latest/)是一个高层神经网络API，Keras由纯Python编写而成并基[Tensorflow](https://github.com/tensorflow/tensorflow)后端
 *    [All-star players in 2017 prediction](https://github.com/Trouble404/NBA-with-Machine-Learning/blob/master/nerual_network/prediction/nba_all_star_prediction/nba%20all%20star%20prediction.ipynb)
