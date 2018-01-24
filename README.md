@@ -1,6 +1,6 @@
 # Machine-Learning-in-NBA
 
-## Predicted list and real list comprasion
+##  Comprasion of predicted list and real list
 ![image](https://github.com/Trouble404/NBA-with-Machine-Learning/blob/master/readme_add_pic/full-list.PNG)
 
 ---
