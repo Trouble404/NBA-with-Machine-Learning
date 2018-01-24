@@ -1,4 +1,10 @@
 # Machine-Learning-in-NBA
+
+## Predicted list and real list comprasion
+![image](https://github.com/Trouble404/NBA-with-Machine-Learning/blob/master/readme_add_pic/full-list.PNG)
+
+---
+
 ## Fan-map plotting
 *   Obtain the game data in 2000~2017 in NBA
 *   Obtain the follwers of 2015~2017 NBA rookies by [twittR](https://www.rdocumentation.org/packages/twitteR/versions/1.1.9) package
